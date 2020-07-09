@@ -8,9 +8,9 @@ This is a full stack todo list web application using
 
 It is based off the online resource https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react and was used to learn about these technologies.
 
-![Incomplete Todos](https://github.com/joshuarichards001/fullstack-todolist-project/tree/master/demo-images/incomplete-todos.png)
+![Incomplete Todos](demo-images/incomplete-todos.png)
 
-![Complete Todos](https://github.com/joshuarichards001/fullstack-todolist-project/tree/master/demo-images/complete-todos.png)
+![Complete Todos](demo-images/complete-todos.png)
 
-![Django API](https://github.com/joshuarichards001/fullstack-todolist-project/tree/master/demo-images/django-api.png)
+![Django API](demo-images/django-api.png)
 
